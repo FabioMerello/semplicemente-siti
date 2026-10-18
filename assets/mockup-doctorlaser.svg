@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Anteprima del sito Doctor Laser">
+<rect width="640" height="400" fill="#0f1b2d"/>
+<rect width="640" height="36" fill="#17283f"/>
+<circle cx="20" cy="18" r="5" fill="#35506f"/><circle cx="38" cy="18" r="5" fill="#35506f"/><circle cx="56" cy="18" r="5" fill="#35506f"/>
+<rect x="90" y="9" width="240" height="18" rx="9" fill="#22364f"/>
+<text x="40" y="84" font-family="Arial,sans-serif" font-size="22" font-weight="800" fill="#fff">Doctor <tspan fill="#22d3ee">Laser</tspan></text>
+<rect x="400" y="72" width="50" height="8" rx="4" fill="#35506f"/><rect x="470" y="72" width="50" height="8" rx="4" fill="#35506f"/><rect x="540" y="72" width="60" height="8" rx="4" fill="#35506f"/>
+<text x="40" y="160" font-family="Arial,sans-serif" font-size="34" font-weight="800" fill="#fff">Riparazione di</text>
+<text x="40" y="202" font-family="Arial,sans-serif" font-size="34" font-weight="800" fill="#fff">apparecchiature estetiche</text>
+<rect x="40" y="226" width="320" height="9" rx="4.5" fill="#35506f"/><rect x="40" y="244" width="240" height="9" rx="4.5" fill="#35506f"/>
+<rect x="40" y="276" width="190" height="44" rx="22" fill="#22d3ee"/>
+<text x="135" y="304" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" font-weight="700" fill="#0f1b2d">Richiedi diagnosi</text>
+<rect x="470" y="170" width="120" height="150" rx="18" fill="#22364f"/><rect x="486" y="188" width="88" height="46" rx="8" fill="#0f1b2d"/>
+<circle cx="508" cy="264" r="10" fill="#22d3ee"/><circle cx="542" cy="264" r="10" fill="#35506f"/>
+<path d="M530 170 V110" stroke="#22d3ee" stroke-width="6" stroke-linecap="round"/><circle cx="530" cy="102" r="10" fill="#22d3ee"/>
+<rect x="40" y="350" width="170" height="30" rx="8" fill="#17283f"/><rect x="230" y="350" width="170" height="30" rx="8" fill="#17283f"/><rect x="420" y="350" width="180" height="30" rx="8" fill="#17283f"/>
+</svg>
